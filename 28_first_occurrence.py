@@ -1,3 +1,4 @@
+# ONLY WORKS ON HALF of 83 TEST CASES
 class Solution:
     def strStr(self, haystack: str, needle: str) -> int:
 
